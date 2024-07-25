@@ -18,3 +18,5 @@ git push origin master
 
 # origindeki değişiklikleri çekmek için
 git pull origin master
+
+denemek icin ekleme yaptim
