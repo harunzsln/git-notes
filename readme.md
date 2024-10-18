@@ -20,3 +20,5 @@ git push origin master
 git pull origin master
 
 denemek icin ekleme yaptim
+
+yeni branch denemesi 
